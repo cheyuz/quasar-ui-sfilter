@@ -1,0 +1,22 @@
+{
+  "name": "quasar-app-extension-sfilter",
+  "version": "0.0.1",
+  "description": "A Simple Filter Form",
+  "author": "Cecep Yusuf <cheyuz@gmail.com>",
+  "license": "MIT",
+  "main": "src/index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/cheyuz/quasar-ui-sfilter"
+  },
+  "bugs": "",
+  "homepage": "https://github.com/cheyuz/quasar-ui-sfilter",
+  "dependencies": {
+    "quasar-ui-sfilter": "^0.0.1"
+  },
+  "engines": {
+    "node": ">= 8.9.0",
+    "npm": ">= 5.6.0",
+    "yarn": ">= 1.6.0"
+  }
+}
